@@ -3,6 +3,10 @@ Copy and paste a Spatial node's position and rotation to another node.
 
 Adds two new Tool menu items:
 
+# Usage
+
+Add the script to Autoload or to an object so that it runs.
+
 - **Project->Tools->Copy Transform**
   - Copies the currently selected Transform matrix from a Spatial node.
   
